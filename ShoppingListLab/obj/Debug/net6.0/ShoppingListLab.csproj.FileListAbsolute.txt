@@ -1,0 +1,15 @@
+C:\Users\danin\source\repos\ShoppingListLab\ShoppingListLab\bin\Debug\net6.0\ShoppingListLab.exe
+C:\Users\danin\source\repos\ShoppingListLab\ShoppingListLab\bin\Debug\net6.0\ShoppingListLab.deps.json
+C:\Users\danin\source\repos\ShoppingListLab\ShoppingListLab\bin\Debug\net6.0\ShoppingListLab.runtimeconfig.json
+C:\Users\danin\source\repos\ShoppingListLab\ShoppingListLab\bin\Debug\net6.0\ShoppingListLab.dll
+C:\Users\danin\source\repos\ShoppingListLab\ShoppingListLab\bin\Debug\net6.0\ShoppingListLab.pdb
+C:\Users\danin\source\repos\ShoppingListLab\ShoppingListLab\obj\Debug\net6.0\ShoppingListLab.csproj.AssemblyReference.cache
+C:\Users\danin\source\repos\ShoppingListLab\ShoppingListLab\obj\Debug\net6.0\ShoppingListLab.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\danin\source\repos\ShoppingListLab\ShoppingListLab\obj\Debug\net6.0\ShoppingListLab.AssemblyInfoInputs.cache
+C:\Users\danin\source\repos\ShoppingListLab\ShoppingListLab\obj\Debug\net6.0\ShoppingListLab.AssemblyInfo.cs
+C:\Users\danin\source\repos\ShoppingListLab\ShoppingListLab\obj\Debug\net6.0\ShoppingListLab.csproj.CoreCompileInputs.cache
+C:\Users\danin\source\repos\ShoppingListLab\ShoppingListLab\obj\Debug\net6.0\ShoppingListLab.dll
+C:\Users\danin\source\repos\ShoppingListLab\ShoppingListLab\obj\Debug\net6.0\refint\ShoppingListLab.dll
+C:\Users\danin\source\repos\ShoppingListLab\ShoppingListLab\obj\Debug\net6.0\ShoppingListLab.pdb
+C:\Users\danin\source\repos\ShoppingListLab\ShoppingListLab\obj\Debug\net6.0\ShoppingListLab.genruntimeconfig.cache
+C:\Users\danin\source\repos\ShoppingListLab\ShoppingListLab\obj\Debug\net6.0\ref\ShoppingListLab.dll
